@@ -1,0 +1,19 @@
+# vscode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# MacOS
+.DS_Store
+.Trashes
+
+# Goland
+.idea/*
+
+test/
+log/
+
+# gin command tools
+gin-bin
